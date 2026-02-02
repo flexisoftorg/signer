@@ -7,7 +7,7 @@ Inspired by [node-cookie-signature](https://github.com/tj/node-cookie-signature)
 ## Installation
 
 ```bash
-go get github.com/brage/signer
+go get github.com/flexisoftorg/signer
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    "github.com/brage/signer"
+    "github.com/flexisoftorg/signer"
 )
 
 func main() {
